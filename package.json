@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "workspaces": [
+    "clients/tabby-agent",
+    "clients/vscode",
+    "clients/vim",
+    "clients/intellij",
+    "clients/example-vscode-lsp"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

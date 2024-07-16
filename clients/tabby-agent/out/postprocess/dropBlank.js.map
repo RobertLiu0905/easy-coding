@@ -1,0 +1,1 @@
+{"version":3,"file":"dropBlank.js","sourceRoot":"","sources":["../../src/postprocess/dropBlank.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,OAAO,EAAE,MAAM,UAAU,CAAC;AAEnC,MAAM,UAAU,SAAS;IACvB,OAAO,CAAC,KAAa,EAAE,EAAE;QACvB,OAAO,OAAO,CAAC,KAAK,CAAC,CAAC,CAAC,CAAC,IAAI,CAAC,CAAC,CAAC,KAAK,CAAC;IACvC,CAAC,CAAC;AACJ,CAAC"}
