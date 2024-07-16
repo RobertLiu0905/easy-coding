@@ -1,3 +1,6 @@
 [submodule "crates/llama-cpp-bindings/llama.cpp"]
 	path = crates/llama-cpp-bindings/llama.cpp
 	url = https://github.com/ggerganov/llama.cpp
+[submodule "llama.cpp"]
+	path = crates/llama-cpp-bindings/llama.cpp
+	url = https://github.com/ggerganov/llama.cpp.git
